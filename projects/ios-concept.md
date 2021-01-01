@@ -1,10 +1,8 @@
 ---
 thumbnail: "/uploads/vlcsnap-2020-12-30-03h32m47s078.png"
-title: spyWarez
+title: ofxPBR
 date: 2019-01-03
-categories:
-- photography
-- yellow
+categories: []
 project_bg_color: "#F5A623"
 project_fg_color: ''
 
